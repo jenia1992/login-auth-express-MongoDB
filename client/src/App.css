@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.LoginLogo{
+  font-family: 'Sofia';
+  margin:10vh;
+}
+.RegLogo{
+  font-family: 'Sofia';
+  margin:5vh;
+}
+label{
+  font-family: 'Sofia';
+  font-size: 4vh;
+}
+::placeholder{
+  padding: 5px;
+}
